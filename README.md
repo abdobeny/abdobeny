@@ -1,16 +1,24 @@
-## Hi there 👋
+# Salut, je suis Abdellilah 👋
 
-<!--
-**abdobeny/abdobeny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Développeur web full-stack** basé à Marrakech, Maroc.
+Je construis des applications web avec Laravel, Filament, React et MySQL,
+du modèle de données à l'interface.
 
-Here are some ideas to get you started:
+🎯 Disponible pour un stage ou une première mission.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stack
+
+![PHP](https://skillicons.dev/icons?i=php,laravel,react,js,mysql,git,html,css)
+
+## Projets
+
+- **[php-blog-mvc](https://github.com/abdobeny/php-blog-mvc)**: blog en PHP avec un noyau MVC écrit à la main, PDO/MySQL, protection CSRF et espace admin par rôles, sans framework.
+- **[Tripflow](https://github.com/abdobeny/Tripflow)**: [une phrase: ce que ça fait et la techno].
+- **[Refuconnect](https://github.com/abdobeny/Refuconnect)**: [une phrase: ce que ça fait et la techno].
+- **[Portfolio](https://portfolio.benyousseabdelilah.workers.dev)**: mon portfolio, déployé sur Cloudflare.
+
+## Me contacter
+
+- 🌐 [Portfolio](https://portfolio.benyousseabdelilah.workers.dev)
+- 💼 [LinkedIn](https://www.linkedin.com/in/abdelilah-benyousse)
+- ✉️ benyousseabdellilah@gmail.com
